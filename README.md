@@ -1,6 +1,5 @@
-The Master branch of DS repository contains all project files including the data files. The description of each project file will indiicate which data file corresponds to which project file. 
-For Ex: Linear Regression project file's description says "Salary_data.csv" is the data file for that project, so one can find the "Salary_data.csv" file in the master branch itself to view the data file for project "Linear Regression". Basically every project file will have one data file and one jupyter notebook file "ipynb". Code for the project is in "ipynb" file and its data being pulled from corresponding data file.
+The Master branch of DS repository contains all project folders along with their data files in it.
 
-All my Data Science projects were done while learning and experiencing data science since last 4 years and some are currently in progress. Main credit for my data science journey goes to my 2 years of experience as Associate System Engineer in IBM Pvt Ltd and my Masters degree in California State University.Online courses like from Udemy, Coursera, Udacity and books like "Python with data science handbook", "Python Machine Learning" etc hace always acted as my guides on my Data Science journey so far. 
+All my Data Science projects were done while learning and experiencing data science since last 4 years and some of them are currently in progress. Main credit for my data science journey goes to my 2 years of experience as Associate System Engineer in IBM Pvt Ltd and my Masters degree in California State University.Online courses like from Udemy, Coursera, Udacity and books like "Python with data science handbook", "Python Machine Learning" etc hace always acted as my guide through my Data Science journey so far. 
 
-This a new github account just to showcase and securely store some of my work completed in the last 4 years. 
+This a new github account to securely store few of my work completed in the last 4 years. 
