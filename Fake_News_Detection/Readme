@@ -18,7 +18,7 @@ IDF is a measure of how significant a term is in the entire corpus.
 
 The TfidfVectorizer converts a collection of raw documents into a matrix of TF-IDF features.
 
-#Passive Aggressive algorithms# are online learning algorithms. 
+###Passive Aggressive algorithms### are online learning algorithms. 
 
 Such an algorithm remains passive for a correct classification outcome, and turns aggressive in the event of a miscalculation, updating and adjusting. 
 
