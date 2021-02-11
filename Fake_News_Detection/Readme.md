@@ -25,3 +25,5 @@ Such an algorithm remains passive for a correct classification outcome, and turn
 Unlike most other algorithms, it does not converge. 
 
 Its purpose is to make updates that correct the loss, causing very little change in the norm of the weight vector.
+
+Using sklearn,a TfidfVectorizer is built on the dataset. Then, a PassiveAggressive Classifier is intitialized and model is fit. In the end, the accuracy score and the confusion matrix showcases how well model fares.
