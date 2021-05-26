@@ -1,6 +1,6 @@
 This is a project in Tableau.
 
-***Question***: Find out which employee from each region gets the annual bonus if bonus criteria is highest amount of sales made in the year ($).
+Question: Find out which employee from each region gets the annual bonus if bonus criteria is highest amount of sales made in the year ($).
 
 Data is imported as a csv file into Tableau to analyse and visualize the data according the requirements. 
 
