@@ -5,5 +5,3 @@ This is accomplished by modeling Convolutional Neural Network that is trained ov
 Finally, one can see the character prediction through a sample of output as shown in project directory (Character prediction.png)
 
 Dataset source: https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
-
-Project source:https://data-flair.training/blogs/handwritten-character-recognition-neural-network/
