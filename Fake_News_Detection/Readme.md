@@ -1,7 +1,5 @@
 Dataset: https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
 
-Project Source: https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
-
 This dataset has a shape of 7796×4.
 
 The first column identifies the news, the second and third are the title and text 
